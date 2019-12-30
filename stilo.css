@@ -55,3 +55,6 @@
     .caracteristicas .grid li i { color: #c3c63b; font-size: 50px; margin-bottom: 30px;}
     .caracteristicas .grid li h4 {font-size: 1.5rem; color: #c3c63b; margin-bottom:30px ;}
     .caracteristicas .grid li p {color: #fff;}
+    @media (max-width: 850px){
+        .caracteristicas .grid {flex-direction: column;}
+    }

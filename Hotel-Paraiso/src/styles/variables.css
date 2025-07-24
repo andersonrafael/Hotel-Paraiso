@@ -1,0 +1,14 @@
+:root {
+    --primary-color: #4CAF50; /* Green */
+    --secondary-color: #FF9800; /* Orange */
+    --accent-color: #FFC107; /* Amber */
+    --background-color: #F5F5F5; /* Light Gray */
+    --text-color: #212121; /* Dark Gray */
+    --heading-font: 'Open Sans', sans-serif;
+    --body-font: 'Roboto', sans-serif;
+    --font-size-base: 16px;
+    --font-size-large: 24px;
+    --font-size-small: 14px;
+    --border-radius: 8px;
+    --box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}

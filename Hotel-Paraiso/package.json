@@ -1,0 +1,32 @@
+{
+  "name": "hotel-paraiso",
+  "version": "1.0.0",
+  "description": "A modern and sophisticated hotel website for Hotel Paraiso, showcasing its features and offerings.",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "build": "webpack --mode production",
+    "test": "jest"
+  },
+  "keywords": [
+    "hotel",
+    "website",
+    "react",
+    "responsive",
+    "modern"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2",
+    "babel-loader": "^8.2.2",
+    "jest": "^26.6.3"
+  }
+}
